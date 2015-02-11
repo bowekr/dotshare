@@ -1,0 +1,1001 @@
+: 1423565040:0;subl ~/.bashrc
+: 1423565222:0;ruby -v
+: 1423565222:0;gem -v
+: 1423565222:0;which ruby
+: 1423565222:0;exit
+: 1423565238:0;source ~/.zshrc
+: 1423565295:0;subl ~/.profile
+: 1423565311:0;rvm list
+: 1423565327:0;rvm use ruby-2.1.5
+: 1423565354:0;rvm get stable --auto-dotfiles
+: 1423565389:0;subl
+: 1423565416:0;gem -v
+: 1423565417:0;ruby -v
+: 1423565420:0;clear
+: 1423565421:0;ls
+: 1423565422:0;exit
+: 1423565506:0;gem -v
+: 1423565515:0;rvm --default 2.1.5
+: 1423565526:0;rvm --default ruby2.1.5
+: 1423565531:0;ruby -v
+: 1423565535:0;exit
+: 1423565604:0;nano ~/.zshrc
+: 1423565611:0;subl 
+: 1423565615:0;subl ~/.zshrc
+: 1423565618:0;exit
+: 1423565707:0;bash
+: 1423565713:0;exit
+: 1423565715:0;ls
+: 1423565715:0;clear
+: 1423565715:0;ls
+: 1423565715:0;zsh
+: 1423565715:0;exit
+: 1423565719:0;urxvt
+: 1423565740:0;exit
+: 1423565807:0;clear
+: 1423565810:0;ruby 0v
+: 1423565812:0;ruby -v
+: 1423565813:0;gem -v
+: 1423565822:0;exit
+: 1423575049:0;clear
+: 1423575050:0;ls
+: 1423575061:0;dir
+: 1423575062:0;clear
+: 1423575062:0;ls
+: 1423575081:0;wifi
+: 1423575083:0;wlan0
+: 1423575086:0;scan wifi
+: 1423575087:0;wifi scan
+: 1423575090:0;sudo reboot
+: 1423579361:0;clear
+: 1423579362:0;ls
+: 1423579364:0;clear
+: 1423579364:0;ls
+: 1423579365:0;clear
+: 1423579365:0;ls
+: 1423579366:0;clear
+: 1423579373:0;ifconfig wlan0
+: 1423579376:0;ifconfig wlan0 up
+: 1423579379:0;sudo ifconfig wlan0 up
+: 1423579419:0;nm-applet
+: 1423579451:0;clear
+: 1423579452:0;ls
+: 1423579471:0;nano ~/etc/zsh/history
+: 1423579477:0;clear
+: 1423579482:0;subl 
+: 1423579486:0;clear
+: 1423579486:0;ls
+: 1423579508:0;subl ~/etc/zsh/02-aliases.zsh
+: 1423579561:0;cd /media
+: 1423579562:0;ls
+: 1423579563:0;cd 01CFFB4886611480
+: 1423579586:0;source ~/.zshrc
+: 1423579587:0;clear
+: 1423579587:0;ls
+: 1423579588:0;mongod
+: 1423579596:0;service mongod stop
+: 1423579599:0;services mongod stop
+: 1423579601:0;mongod stop
+: 1423579604:0;service
+: 1423579607:0;service mongod stop
+: 1423579610:0;service mongo stop
+: 1423579615:0;service --status-all
+: 1423579623:0;service mongodb stop
+: 1423579628:0;mongod
+: 1423579633:0;service mongodb restart
+: 1423579644:0;cd spor
+: 1423579647:0;cd ~/
+: 1423579649:0;cd sporra
+: 1423579650:0;rails s
+: 1423579664:0;sudo service mongodb restart
+: 1423579668:0;sudo service mongodb stop
+: 1423579672:0;mongod
+: 1423579743:0;source ~/.zshrc
+: 1423579745:0;firefox
+: 1423579819:0;ls
+: 1423579819:0;clear
+: 1423579820:0;ls
+: 1423579820:0;cd sporra
+: 1423579822:0;cd ..
+: 1423579825:0;cd $HOME
+: 1423579826:0;ls
+: 1423579828:0;cd sporra
+: 1423579831:0;subl .
+: 1423580139:0;git status
+: 1423580141:0;git add *
+: 1423580145:0;rm -rf tmp
+: 1423580147:0;git add *
+: 1423580165:0;git commit -am "revisi mutual friend ajax"
+: 1423580169:0;git push origin dev
+: 1423580785:0;rpry
+: 1423580809:0;clear
+: 1423580817:0;nano ~/etc/zsh/02-aliases.zsh
+: 1423580847:0;clear
+: 1423580853:0;source ~/.zshrc
+: 1423580855:0;cleare
+: 1423580856:0;clear
+: 1423580859:0;ls
+: 1423580869:0;clear
+: 1423580870:0;ls
+: 1423580871:0;rpry
+: 1423582139:0;urxvt
+: 1423583788:0;git status
+: 1423583789:0;git add *
+: 1423583794:0;rm -rf tmp
+: 1423583796:0;git status
+: 1423583799:0;git add (\
+end
+: 1423583800:0;clear
+: 1423583802:0;git add *
+: 1423583822:0;git commit -am "Convert Event View"
+: 1423583825:0;git push origin def
+: 1423583828:0;git push origin dev
+: 1423585779:0;exit
+: 1423587432:0;nm-applet
+: 1423587436:0;clear
+: 1423587438:0;firefox
+: 1423588693:0;geany
+: 1423589148:0;firefox
+: 1423589219:0;xbacklight +100
+: 1423589265:0;nm-applet
+: 1423589311:0;exit
+: 1423589334:0;nm-applet
+: 1423589338:0;sudo reboot
+: 1423589351:0;subl asdasd
+: 1423589441:0;nm-applet
+: 1423589477:0;exit
+: 1423589522:0;firefox
+: 1423590108:0;xbacklight +50
+: 1423590110:0;exit
+: 1423590180:0;clear
+: 1423590187:0;ls
+: 1423590191:0;nano ~/.Xdefau;ts
+: 1423590199:0;nano ~/.Xdefaults
+: 1423590207:0;exit
+: 1423590236:0;clear
+: 1423590237:0;ls
+: 1423590324:0;cd etc
+: 1423590329:0;mkdir color
+: 1423590330:0;cd color
+: 1423590337:0;nano dotshare
+: 1423590340:0;clear
+: 1423590340:0;ls
+: 1423590345:0;nano ~/.Xdefaults
+: 1423590386:0;xrdb -merge ~/.Xdefaults
+: 1423590388:0;exit
+: 1423590399:0;clear
+: 1423590399:0;ls
+: 1423590405:0;nano ~/.Xdefaults
+: 1423590423:0;xrdb -merge ~/.Xdefaults
+: 1423590429:0;ls
+: 1423590431:0;cd etc
+: 1423590431:0;ls
+: 1423590433:0;cd color
+: 1423590433:0;ls
+: 1423590436:0;nano dotshare
+: 1423590449:0;xrdb -merge ~/.Xdefaults
+: 1423590456:0;subl dotshare
+: 1423590465:0;xrdb -merge ~/.Xdefaults
+: 1423590486:0;subl ~/.Xdefaults
+: 1423590495:0;xrdb -merge ~/.Xdefaults
+: 1423590510:0;exit
+: 1423590528:0;subl
+: 1423590541:0;exi
+: 1423590542:0;exit
+: 1423590619:0;xrdb -merge ~/.Xdefaults
+: 1423590669:0;exit
+: 1423590691:0;xrdb -merge ~/.Xdefaults
+: 1423590760:0;exit
+: 1423590763:0;urxvt
+: 1423590765:0;clear
+: 1423590766:0;ls
+: 1423590766:0;clear
+: 1423590767:0;exit
+: 1423590866:0;xrdb -merge ~/.Xdefaults
+: 1423590873:0;source ~/.zshrc
+: 1423590878:0;xrdb -merge ~/.Xdefaults
+: 1423590896:0;nano ~/.Xresources
+: 1423590907:0;subl ~/.Xresources
+: 1423590914:0;exit
+: 1423590921:0;urxvt
+: 1423590947:0;exit
+: 1423590958:0;urxvt
+: 1423590970:0;subl ~/.Xresources
+: 1423590982:0;xrdb -merge ~~/.Xresources
+: 1423590983:0;exit
+: 1423590990:0;urxvt
+: 1423590996:0;exit
+: 1423591011:0;exitexit
+: 1423591012:0;exit
+: 1423591018:0;xrdb -merge ~/.Xdefaults
+: 1423591021:0;xrdb -merge ~/.Xresources
+: 1423591022:0;exit
+: 1423591025:0;urxvt
+: 1423591032:0;exit
+: 1423591035:0;urxvt
+: 1423591041:0;exit
+: 1423591106:0;xrdb -merge ~/.Xdefaults
+: 1423591108:0;urxvt
+: 1423591110:0;exit
+: 1423591353:0;xrdb -merge ~/.Xresources
+: 1423591368:0;urxvt
+: 1423591400:0;âƒ§§sdasdasdasdasdasd
+: 1423591401:0;clear
+: 1423591405:0;ls
+: 1423591406:0;clear
+: 1423591406:0;ls
+: 1423591410:0;âƒ¦ƒ³asdasd
+: 1423591414:0;asd
+: 1423591420:0;dasd
+: 1423591424:0;âƒ¦ƒ³
+: 1423591429:0;asdasd
+: 1423591437:0;as
+: 1423591509:0;fc-list
+: 1423591539:0;fc-list :family=LucidaTypewriter:style=Sans
+: 1423591549:0;fc-list -v :family=LucidaTypewriter:style=Sans
+: 1423591578:0;exit
+: 1423591583:0;xrdb -merge ~/.Xdefaults
+: 1423591585:0;urxvt
+: 1423591593:0;exit
+: 1423625666:0;firefox
+: 1423625905:0;exit
+: 1423625912:0;nm-applet
+: 1423626178:0;sudo apt-get install openvpn
+: 1423626289:0;sudo service openvpn start
+: 1423626300:0;cd downloads
+: 1423626300:0;ls
+: 1423626302:0;clear
+: 1423626302:0;ls
+: 1423626310:0;cd ..
+: 1423626312:0;cd Downloads
+: 1423626312:0;ls
+: 1423626316:0;openvpn CyberGhost.ovpn
+: 1423626372:0;sudo openvpn CyberGhost.ovpn
+: 1423627562:0;s apt-get install chrome
+: 1423628632:0;clear
+: 1423628633:0;cd downloads
+: 1423628634:0;ls
+: 1423628636:0;cd ..
+: 1423628636:0;ls
+: 1423628637:0;cd Downloads
+: 1423628637:0;ls
+: 1423628638:0;clear
+: 1423628638:0;ls
+: 1423628642:0;sudo dpkg -i google-chrome-stable_current_i386.deb
+: 1423628654:0;sudo dpkg -i google-chrome-stable_current_i386.deb --install
+: 1423628772:0;subl ~/etc/zsh/
+: 1423628941:0;source ~/.zshrc
+: 1423628943:0;clear
+: 1423628943:0;ls
+: 1423628949:0;cd ~/etc
+: 1423628950:0;cd zsh
+: 1423628950:0;ls
+: 1423628955:0;chmod +x rzsh_path
+: 1423628957:0;clear
+: 1423628958:0;ls
+: 1423628961:0;clear
+: 1423628962:0;urxvt
+: 1423628986:0;nano ~/.Xdefaults
+: 1423629040:0;exit
+: 1423629052:0;clear
+: 1423629052:0;ls
+: 1423629058:0;xrdb -merge ~/.Xdefaults
+: 1423629064:0;exit
+: 1423629075:0;nano ~/.Xresources
+: 1423629094:0;exit
+: 1423629149:0;xrdb -merge ~/.Xdefaults
+: 1423629155:0;xrdb -merge ~/.Xresources
+: 1423629157:0;exit
+: 1423629161:0;clear
+: 1423629162:0;ls
+: 1423629184:0;exit
+: 1423629254:0;nano ~/.Xdefaults
+: 1423629287:0;exit
+: 1423629294:0;sudo reboot
+: 1423629961:0;clear
+: 1423629962:0;ls
+: 1423629964:0;exit
+: 1423629966:0;firefox
+: 1423629996:0;clear
+: 1423629996:0;ls
+: 1423629998:0;cd Downloads
+: 1423629999:0;ls
+: 1423630002:0;openvpn CyberGhost.ovpn
+: 1423630757:0;xbacklight +50
+: 1423630921:0;nano ~/.Xdefaults
+: 1423630930:0;xrdb -merge ~/.Xdefaults
+: 1423630964:0;dpkg-reconfigure font-config
+: 1423630968:0;sudo dpkg-reconfigure font-config
+: 1423630978:0;sudo dpkg-reconfigure fontconfig-config
+: 1423631020:0;sudo dpkg-reconfigure fontconfig
+: 1423631117:0;clear
+: 1423631117:0;ls
+: 1423631120:0;clear
+: 1423631132:0;cd sporra
+: 1423631132:0;ls
+: 1423631133:0;rails s
+: 1423631147:0;mongod
+: 1423631156:0;sudo service mongodb stop
+: 1423631162:0;mongod
+: 1423631169:0;firefox
+: 1423631783:0;rails s
+: 1423631902:0;clear
+: 1423631902:0;l
+: 1423631906:0;ps -e
+: 1423631923:0;sudo kill 4505
+: 1423631928:0;rails s
+: 1423631996:0;fg
+: 1423632114:0;rails c
+: 1423632119:0;rpry
+: 1423632931:0;rake routes
+: 1423634599:0;git status
+: 1423634604:0;rm -rf tmp
+: 1423634608:0;git add *
+: 1423634632:0;git commit -am "fix events page, start convert event page"
+: 1423634635:0;git push origin dev
+: 1423636632:0;rpry
+: 1423640256:0;nm-applet
+: 1423640487:0;sudo reboot
+: 1423640569:0;nm-applet
+: 1423640621:0;exit
+: 1423640625:0;firefoxs
+: 1423640626:0;exot
+: 1423640627:0;exit
+: 1423640632:0;clear
+: 1423640632:0;ls
+: 1423640641:0;exit
+: 1423640646:0;clear
+: 1423640652:0;firefox
+: 1423640711:0;clear
+: 1423640711:0;ls
+: 1423640712:0;clear
+: 1423640713:0;ls
+: 1423640760:0;cd sporra
+: 1423640761:0;rails s
+: 1423640779:0;s service mongodb stop
+: 1423640781:0;mongod
+: 1423641080:0;pg
+: 1423641100:0;ping google.com -t
+: 1423641102:0;ping google.com
+: 1423641142:0;xbacklight +100
+: 1423642812:0;git log
+: 1423644594:0;xbacklight _100
+: 1423644598:0;xbacklight -100
+: 1423644909:0;chrome
+: 1423644915:0;google-chrome
+: 1423644929:0;cd ~/Downloads
+: 1423644929:0;ls
+: 1423644934:0;sudo dpkg -i google-chrome-stable_current_amd64.deb
+: 1423644973:0;sudo apt-get install liappindicator
+: 1423644980:0;sudo apt-get install libappindicator
+: 1423644984:0;sudo dpkg -i google-chrome-stable_current_amd64.deb
+: 1423645000:0;firefox
+: 1423645032:0;sudo apt-get install libappindicator1
+: 1423645040:0;sudo apt-get -f install libappindicator1
+: 1423645045:0;sudo apt-get -f install
+: 1423645101:0;exit
+: 1423652229:0;clear
+: 1423652229:0;ls
+: 1423652230:0;clear
+: 1423652230:0;ls
+: 1423652235:0;clear
+: 1423652236:0;ls
+: 1423652237:0;clear
+: 1423652237:0;s
+: 1423652239:0;clear
+: 1423652239:0;ls
+: 1423652249:0;xrdb -merge ~/.Xdefaults
+: 1423652260:0;nano ~/.Xdefaults
+: 1423652268:0;xrdb -merge ~/.Xdefaults
+: 1423652272:0;nano ~/.Xdefaults
+: 1423652283:0;xrdb -merge ~/.Xdefaults
+: 1423652293:0;nano ~/.Xdefaults
+: 1423652314:0;xrdb -merge ~/.Xdefaults
+: 1423652336:0;nano ~/.Xdefaults
+: 1423652345:0;xrdb -merge ~/.Xdefaults
+: 1423652356:0;nano ~/.Xdefaults
+: 1423652366:0;xrdb -merge ~/.Xdefaults
+: 1423652387:0;nano ~/.Xdefaults
+: 1423652399:0;xrdb -merge ~/.Xdefaults
+: 1423652411:0;firefox
+: 1423652491:0;xrdb -merge ~/.Xdefaults
+: 1423652500:0;nano ~/.Xdefaults
+: 1423652509:0;xrdb -merge ~/.Xdefaults
+: 1423652518:0;cd etc
+: 1423652519:0;cd color
+: 1423652523:0;chmod +x ds
+: 1423652525:0;xrdb -merge ~/.Xdefaults
+: 1423652548:0;nano ~/.Xdefaults
+: 1423652564:0;xrdb -merge ~/.Xdefaults
+: 1423652607:0;nano ~/.Xdefaults
+: 1423652630:0;xrdb -merge ~/.Xdefaults
+: 1423652711:0;cd ..
+: 1423652716:0;mkdir ~/.colors
+: 1423652718:0;cd ~/.colors
+: 1423652739:0;xrdb -merge ~/.Xdefaults
+: 1423652788:0;mkdir ~/.colors
+: 1423652790:0;ls
+: 1423652795:0;nano ~/.Xdefaults
+: 1423652822:0;xrdb -merge ~/.Xdefaults
+: 1423652828:0;nano ~/.Xdefaults
+: 1423652849:0;xrdb -merge ~/.Xdefaults
+: 1423652858:0;xbacklight +100
+: 1423652860:0;xbacklight +59
+: 1423652880:0;xrdb -merge ~/.Xdefaults
+: 1423652898:0;subl ~/.Xdefaults
+: 1423652936:0;xrdb -merge ~/.Xdefaults
+: 1423652992:0;subl urxvt.fix
+: 1423653004:0;xrdb -merge ~/.Xdefaults
+: 1423653205:0;exit
+: 1423653242:0;subl
+: 1423653252:0;subl ~/.Xresources
+: 1423653308:0;exit
+: 1423653315:0;clear
+: 1423653315:0;ls
+: 1423653322:0;exit
+: 1423653332:0;xrdb -merge ~/.Xdefaults
+: 1423653337:0;xrdb -merge ~/.Xresources
+: 1423653340:0;xrdb -merge ~/.Xdefaults
+: 1423653342:0;firefox
+: 1423653394:0;nano ~/.Xdefaults
+: 1423653405:0;subl ~/.Xresources
+: 1423653417:0;xrdb -merge ~/.Xdefaults
+: 1423653419:0;subl ~/.Xresources
+: 1423653425:0;exit
+: 1423653502:0;xrdb -merge ~/.Xdefaults
+: 1423653506:0;subl ~/.Xresources
+: 1423653514:0;nano ~/.zshrc
+: 1423653534:0;sudo xrdb -merge ~/.Xdefaults
+: 1423653539:0;exit
+: 1423653546:0;nano ~/.zshrc
+: 1423653569:0;source ~/.zshrc
+: 1423653630:0;xd
+: 1423653632:0;xr
+: 1423653633:0;xd
+: 1423653636:0;exit
+: 1423653654:0;xd
+: 1423653655:0;exit
+: 1423653669:0;xd
+: 1423653670:0;exit
+: 1423653680:0;xd
+: 1423653681:0;exit
+: 1423653686:0;clear
+: 1423653687:0;ls
+: 1423653717:0;clear
+: 1423653717:0;ls
+: 1423653811:0;nano ~/.Xdefaults
+: 1423653819:0;xd
+: 1423653820:0;exit
+: 1423653840:0;nano ~/.Xresources
+: 1423653847:0;xr
+: 1423653848:0;exit
+: 1423653913:0;clear
+: 1423653914:0;rails s
+: 1423653947:0;nano ~/.Xdefaults
+: 1423653955:0;xd
+: 1423653955:0;exit
+: 1423653962:0;cleaer
+: 1423653963:0;clear
+: 1423653963:0;ls
+: 1423654037:0;fc-list
+: 1423654100:0;subl ~/.Xdefaults
+: 1423654110:0;xd
+: 1423654111:0;exit
+: 1423654119:0;clear
+: 1423654120:0;ls
+: 1423654143:0;clear
+: 1423654143:0;ls
+: 1423654262:0;sudo nano /etc/X11/xorg.conf
+: 1423654298:0;fc-cache -fv
+: 1423654315:0;fc-list
+: 1423654331:0;fc-list | grep gohu
+: 1423654336:0;fc-list | grep 
+: 1423654343:0;fc-list | grep Gohu
+: 1423654347:0;fc-list
+: 1423654426:0;fc-list | grep g
+: 1423654432:0;fc-list | grep home
+: 1423654438:0;fc-list | grep .fonts
+: 1423654449:0;fc-list | grep go
+: 1423654469:0;fc-list | grep gohufonts
+: 1423654474:0;fc-list
+: 1423654491:0;fc-list | grep pcf
+: 1423654496:0;fc-list | grep pc
+: 1423654498:0;fc-list | grep p
+: 1423654603:0;subl ~/.Xdefaults
+: 1423654630:0;xd
+: 1423654630:0;exit
+: 1423654686:0;xd
+: 1423654688:0;urxvt
+: 1423654692:0;clear
+: 1423654693:0;exit
+: 1423654736:0;clear
+: 1423654737:0;ls
+: 1423654744:0;s apt-get remove icehaswell
+: 1423654760:0;s apt-get remove iceweasell
+: 1423654767:0;exit
+: 1423654783:0;s apt-get remove iceweasel
+: 1423654811:0;clear
+: 1423654812:0;ls
+: 1423654833:0;cd bin
+: 1423654833:0;ls
+: 1423654835:0;cd firefox
+: 1423654835:0;ls
+: 1423654836:0;clear
+: 1423654836:0;ls
+: 1423654840:0;make install
+: 1423654899:0;s apt-get install firefox
+: 1423654912:0;clear
+: 1423654912:0;ls
+: 1423655431:0;clear
+: 1423655431:0;ls
+: 1423655451:0;clear
+: 1423655451:0;ls
+: 1423655452:0;cd sporra
+: 1423655453:0;ls
+: 1423655455:0;cd ~
+: 1423655456:0;cd sporra
+: 1423655457:0;ls
+: 1423655457:0;clear
+: 1423655462:0;ll
+: 1423655500:0;n Term::ExtendedColor
+: 1423655509:0;cpan Term::ExtendedColor
+: 1423655617:0;sudo
+: 1423655659:0;ls
+: 1423655660:0;cd ..
+: 1423655660:0;ls
+: 1423655664:0;clear
+: 1423655664:0;ls
+: 1423655667:0;cd etc
+: 1423655667:0;ls
+: 1423655672:0;git clone git://github.com/trapd00r/ls--.git
+: 1423655717:0;wget https://raw.github.com/trapd00r/LS_COLORS/master/LS_COLORS -O $HOME/.dircolors
+: 1423655731:0;nano ~/.zshrc
+: 1423655768:0;source ~/.zshrc
+: 1423655769:0;ls
+: 1423655771:0;clear
+: 1423655772:0;ll
+: 1423655773:0;clear
+: 1423655773:0;ls
+: 1423655775:0;dir
+: 1423655776:0;clear
+: 1423655776:0;ls
+: 1423655788:0;find $HOME -maxdepth 1  | ls_color
+: 1423655792:0;ls_color
+: 1423655794:0;exit
+: 1423655800:0;ls_color
+: 1423655821:0;nano ~/.zshrc
+: 1423655848:0;source ~/.zshrc
+: 1423655850:0;ls_color
+: 1423655861:0;LS_COLORS
+: 1423655864:0;ls_colors
+: 1423655904:0;ls
+: 1423655907:0;ls --color=auto
+: 1423655938:0;ls
+: 1423655940:0;ls -p
+: 1423655942:0;ls -la
+: 1423655969:0;ls
+: 1423655970:0;clear
+: 1423655970:0;ls
+: 1423655973:0;cd Desktop
+: 1423655974:0;cd ..
+: 1423655975:0;ls
+: 1423655977:0;cd downloads
+: 1423655977:0;ls
+: 1423655979:0;clear
+: 1423655980:0;ls
+: 1423655994:0;cd .
+: 1423655995:0;ls
+: 1423655996:0;clear
+: 1423655997:0;ls
+: 1423655999:0;cd ..
+: 1423655999:0;ls
+: 1423656000:0;clear
+: 1423656000:0;ls
+: 1423656002:0;cd kitty
+: 1423656002:0;ls
+: 1423656003:0;clar
+: 1423656008:0;cd bin
+: 1423656008:0;ls
+: 1423656011:0;cd firefox
+: 1423656011:0;ls
+: 1423656015:0;ll
+: 1423656040:0;c d..
+: 1423656043:0;cd ~/etc
+: 1423656044:0;ls
+: 1423656045:0;cd ls--
+: 1423656045:0;ls
+: 1423656052:0;perl Makefile.PL
+: 1423656060:0;make && su -c 'make install'
+: 1423656073:0;cp ls++.conf $HOME/.ls++.conf
+: 1423656074:0;clear
+: 1423656075:0;exit
+: 1423656079:0;ll
+: 1423656084:0;ls--
+: 1423656089:0;ls++
+: 1423656104:0;ls||
+: 1423656106:0;ls++
+: 1423656126:0;./ls++.conf
+: 1423656127:0;ls
+: 1423656134:0;cd bin
+: 1423656138:0;cd ls--
+: 1423656138:0;ls
+: 1423656140:0;cd ..
+: 1423656141:0;ls
+: 1423656141:0;cd etc
+: 1423656142:0;ls
+: 1423656143:0;cd ls--
+: 1423656144:0;lss
+: 1423656144:0;clear
+: 1423656145:0;ls
+: 1423656153:0;ls++
+: 1423656157:0;./ls++
+: 1423656169:0;./ls++ --pf
+: 1423656204:0;perl Makefile.PL
+: 1423656211:0;ls
+: 1423656218:0;Make
+: 1423656219:0;make
+: 1423656220:0;sudo make
+: 1423656226:0;make
+: 1423656227:0;clear
+: 1423656228:0;ls
+: 1423656242:0;sudo perl MakeFile.pl
+: 1423656245:0;sudo perl MakeFile.PL
+: 1423656254:0;sudo perl Makefile.PL
+: 1423656258:0;sudo make
+: 1423656261:0;sudo make install
+: 1423656274:0;cp ls++.conf $HOME/.ls++.conf
+: 1423656278:0;clear
+: 1423656278:0;ls
+: 1423656278:0;exit
+: 1423656283:0;ll
+: 1423656291:0;ls
+: 1423656292:0;clear
+: 1423656292:0;ls
+: 1423656321:0;clear
+: 1423656322:0;ls
+: 1423656363:0;clear
+: 1423656363:0;ls
+: 1423656381:0;nano ~/.Xdefaults
+: 1423656400:0;sd
+: 1423656402:0;xd
+: 1423656402:0;exit
+: 1423656405:0;clear
+: 1423656405:0;ls
+: 1423656451:0;nano ~/.Xdefaults
+: 1423656458:0;xd
+: 1423656460:0;exit
+: 1423656464:0;clear
+: 1423656464:0;ls
+: 1423656470:0;echo 'www.google.com'
+: 1423656477:0;nano ~/.Xdefaults
+: 1423656489:0;xd
+: 1423656490:0;xr
+: 1423656490:0;exit
+: 1423656495:0;clear
+: 1423656496:0;ls
+: 1423656522:0;nano ~/.Xdefaults
+: 1423656531:0;xd
+: 1423656532:0;exit
+: 1423656536:0;clear
+: 1423656536:0;ls
+: 1423656621:0;clear
+: 1423656621:0;ls
+: 1423656642:0;clear
+: 1423656643:0;ls
+: 1423656644:0;cd rails
+: 1423656646:0;cd sporra
+: 1423656650:0;clear
+: 1423656650:0;ls
+: 1423656653:0;rpry
+: 1423656674:0;clear
+: 1423656674:0;ls
+: 1423656676:0;git status
+: 1423656677:0;gst
+: 1423656678:0;clear
+: 1423656678:0;ls
+: 1423656690:0;nano ~/etc/zsh/02-aliases.zsh
+: 1423656760:0;clear
+: 1423656760:0;ls
+: 1423656764:0;..
+: 1423656765:0;l
+: 1423656769:0;nano asdasd
+: 1423656792:0;ls
+: 1423656797:0;exit
+: 1423656887:0;cd bin
+: 1423656887:0;ls
+: 1423656889:0;cd firefox
+: 1423656889:0;ls
+: 1423656890:0;clear
+: 1423656891:0;ls
+: 1423656893:0;chmod +x firefox
+: 1423656894:0;ls
+: 1423656919:0;chmod +x firefox
+: 1423656919:0;ls
+: 1423656927:0;make install
+: 1423656928:0;clear
+: 1423656928:0;ls
+: 1423656960:0;cd browser
+: 1423656961:0;l
+: 1423656969:0;c extensions
+: 1423656977:0;..
+: 1423656981:0;l
+: 1423656982:0;ll
+: 1423656983:0;l
+: 1423656989:0;..
+: 1423656990:0;l
+: 1423657000:0;c
+: 1423657008:0;nano ~/etc/zsh/02-aliases.zsh
+: 1423657025:0;source ~/.zshrc
+: 1423657028:0;mongod
+: 1423657057:0;mount
+: 1423657060:0;mongod
+: 1423657077:0;s services mongodb stop
+: 1423657081:0;s service mongodb stop
+: 1423657084:0;mongod
+: 1423657096:0;exit
+: 1423657099:0;subl
+: 1423657127:0;xd
+: 1423657128:0;exit
+: 1423657131:0;tab
+: 1423657133:0;xr
+: 1423657139:0;nano ~/.Xdefaults
+: 1423657150:0;vim ~/.Xresources
+: 1423657154:0;vi ~/.Xresources
+: 1423657167:0;nano ~/.Xdefaults
+: 1423657181:0;xd
+: 1423657182:0;exit
+: 1423657189:0;clear
+: 1423657190:0;mongod
+: 1423657788:0;clear
+: 1423657788:0;ls
+: 1423657789:0;clear
+: 1423657790:0;ls
+: 1423657791:0;cls
+: 1423657821:0;./firefox
+: 1423657822:0;clear
+: 1423657822:0;ls
+: 1423657825:0;cd bin
+: 1423657826:0;ls
+: 1423657827:0;firefox
+: 1423658135:0;s apt-get install tmux
+: 1423658147:0;tmux
+: 1423658151:0;clear
+: 1423658152:0;ls
+: 1423658153:0;exit
+: 1423658155:0;clear
+: 1423658157:0;tmux
+: 1423658166:0;exit
+: 1423658170:0;tmux
+: 1423658172:0;clear
+: 1423658179:0;exit
+: 1423658184:0;clear
+: 1423658188:0;ls
+: 1423658191:0;rails s
+: 1423658194:0;cd sporra
+: 1423658194:0;rail ss
+: 1423658198:0;rails s
+: 1423658315:0;clear
+: 1423658316:0;ls
+: 1423658365:0;tmux
+: 1423658392:0;exit
+: 1423658430:0;clear
+: 1423658430:0;ls
+: 1423658581:0;ll
+: 1423659077:0;s apt-get install wine
+: 1423659242:0;s nano /etc/apt/sources.list
+: 1423659252:0;s apt-get update
+: 1423659309:0;sudo apt-get update
+: 1423659339:0;sudo apt-key adv --keyserver hkp://keyserver.ubuntu.com:80 --recv-keys 94558F59
+: 1423659343:0;sudo apt-get update
+: 1423659367:0;s apt-get install spotify-client
+: 1423659461:0;nm-applet
+: 1423659547:0;s apt-get install spotify-client
+: 1423659599:0;mongod
+: 1423659611:0;c sporra
+: 1423659614:0;rails s
+: 1423659845:0;s apat-get update --fix-missing
+: 1423659848:0;s apt-get update --fix-missing
+: 1423659861:0;s apt-get install spotify-client
+: 1423659871:0;s apt-get update
+: 1423659887:0;nm-applet
+: 1423659898:0;s apt-get install spotify-client
+: 1423660104:0;c sporra
+: 1423660105:0;rpry
+: 1423660321:0;ls
+: 1423660322:0;clear
+: 1423660322:0;ls
+: 1423660323:0;clear
+: 1423660326:0;..
+: 1423660327:0;l
+: 1423660331:0;mkdir rails
+: 1423660334:0;cd rails
+: 1423660334:0;ls
+: 1423660343:0;rails new blog -T -O
+: 1423660346:0;clear
+: 1423660351:0;rmf blog
+: 1423660356:0;rails new blog -T
+: 1423660359:0;clear
+: 1423660360:0;cd blog
+: 1423660371:0;bundle install --local
+: 1423660380:0;bundle install
+: 1423660385:0;gem install sass-rails
+: 1423660389:0;sgem install sass-rails
+: 1423660392:0;bash
+: 1423663215:0;gem install sass-rails
+: 1423663215:0;exit
+: 1423660490:0;bundle install --lcaol
+: 1423660495:0;bundle install --local
+: 1423660500:0;bundle install
+: 1423662044:0;clear
+: 1423662047:0;subl
+: 1423662052:0;subl .
+: 1423662252:0;cd ..
+: 1423662255:0;cd rails
+: 1423662258:0;cd blog
+: 1423662262:0;rails server
+: 1423662408:0;rails g controller welcome index
+: 1423663056:0;spotify-client
+: 1423663057:0;spotify
+: 1423663214:0;clear
+: 1423663214:0;ls
+: 1423663215:0;exit
+: 1423663317:0;rake routes
+: 1423664008:0;rails g controller articles
+: 1423664744:0;rake routes
+: 1423665490:0;..
+: 1423665498:0;rmf blog
+: 1423665530:0;rails new blog
+: 1423665542:0;cd blog
+: 1423665544:0;bundle install
+: 1423665553:0;bundle install --local
+: 1423665584:0;subl .
+: 1423665762:0;rails g controller home index
+: 1423665913:0;clear
+: 1423665914:0;ls
+: 1423666050:0;clear
+: 1423666064:0;rails server
+: 1423666079:0;bash
+: 1423669691:0;rails s
+: 1423669691:0;exit
+: 1423666084:0;pwd
+: 1423666086:0;clear
+: 1423666087:0;ls
+: 1423666088:0;rails s
+: 1423666103:0;clear
+: 1423666103:0;ls
+: 1423666128:0;rails s
+: 1423666155:0;nano  
+: 1423666173:0;nano /home/kitty/.rvm/gems/ruby-2.1.5@global/gems/rubygems-bundler-1.4.4/lib/rubygems-bundler/noexec.rb
+: 1423666193:0;rails s
+: 1423666195:0;clear
+: 1423666196:0;ls
+: 1423666197:0;..
+: 1423666199:0;rm -rf tmp
+: 1423666200:0;clear
+: 1423666200:0;ls
+: 1423666204:0;rmf blog
+: 1423666205:0;clear
+: 1423666205:0;ls
+: 1423666207:0;rails new blog -T
+: 1423666209:0;clear
+: 1423666210:0;ls
+: 1423666211:0;cd blog
+: 1423666217:0;bundle install --local
+: 1423666218:0;clear
+: 1423666219:0;ls
+: 1423666221:0;rails s
+: 1423666224:0;clear
+: 1423666231:0;rails g controller article index
+: 1423666238:0;rail ss
+: 1423666239:0;rails s
+: 1423666290:0;clear
+: 1423666290:0;ls
+: 1423666292:0;rails s
+: 1423666316:0;clear
+: 1423666316:0;ls
+: 1423666317:0;rails s
+: 1423666328:0;clear
+: 1423666328:0;ls
+: 1423666329:0;cd ..
+: 1423666332:0;rmf blog
+: 1423666333:0;cleae
+: 1423666358:0;rails new blog
+: 1423666383:0;cd blog
+: 1423666402:0;bundle install --local
+: 1423666632:0;rails s
+: 1423666928:0;rpry
+: 1423666939:0;cd cc
+: 1423666941:0;cd ..
+: 1423666943:0;cd blog
+: 1423666947:0;rpry
+: 1423667054:0;bundle install --local
+: 1423667809:0;rpry
+: 1423668029:0;rails install mongod:config
+: 1423668051:0;rails generate mongod:config
+: 1423668065:0;rails generate mongoid:config
+: 1423668080:0;rpry
+: 1423668620:0;rails s
+: 1423668658:0;bundle install --local
+: 1423668661:0;rai;l ss
+: 1423668662:0;rails s
+: 1423668681:0;robomongo
+: 1423668684:0;sudo apt-get install robomongo
+: 1423668920:0;cd ..
+: 1423668924:0;rmf blog
+: 1423669028:0;rails new ekrcell
+: 1423669036:0;cd ekrcell
+: 1423669059:0;bundle install --local
+: 1423669246:0;rails s
+: 1423669251:0;cd ..
+: 1423669256:0;cd ekrcell
+: 1423669259:0;rails s
+: 1423669456:0;rails generate mongoid:config
+: 1423669698:0;mongod
+: 1423669704:0;cd rails
+: 1423669709:0;ls
+: 1423669713:0;cd ekrcell
+: 1423669717:0;rails s
+: 1423669728:0;cd rails
+: 1423669731:0;cd ekrcell
+: 1423669752:0;rails generate mongoid:config
+: 1423669764:0;bundle install --local
+: 1423669817:0;rails g mongoid:config
+: 1423670147:0;firefox
+: 1423670170:0;rails s
+: 1423670446:0;rpry
+: 1423671253:0;exit
+: 1423671259:0;clear
+: 1423671260:0;ls
+: 1423671269:0;irb
+: 1423671304:0;clear
+: 1423671304:0;ls
+: 1423671321:0;irb
+: 1423671330:0;clear
+: 1423671332:0;ls
+: 1423671350:0;cd etc
+: 1423671351:0;ls
+: 1423671352:0;cd rails
+: 1423671352:0;ls
+: 1423671352:0;clear
+: 1423671353:0;ls
+: 1423671353:0;ll
+: 1423671357:0;cd zsh
+: 1423671358:0;ll
+: 1423671368:0;nano 02-aliases.zsh
+: 1423671374:0;vi 02-aliases.zsh
+: 1423671422:0;clear
+: 1423671424:0;..
+: 1423671428:0;cd etc
+: 1423671431:0;cd zsh
+: 1423671435:0;...
+: 1423671442:0;clear
+: 1423671443:0;ls
+: 1423671446:0;clear
+: 1423671446:0;ls
+: 1423671451:0;cd etc
+: 1423671451:0;ls
+: 1423671452:0;cd zsh
+: 1423671454:0;clear
+: 1423671458:0;cd ../..
+: 1423671463:0;ls
+: 1423671464:0;ll
+: 1423671475:0;cd ..
+: 1423671479:0;..
+: 1423671481:0;...
+: 1423671483:0;..................
+: 1423671484:0;clear
+: 1423671485:0;ls
+: 1423671487:0;exit
+: 1423671502:0;firefox
+: 1423671814:0;xbacklight -20
+: 1423671927:0;sudo apt-get install vim
+: 1423672022:0;clear
+: 1423672674:0;bash
+: 1423672909:0;gem install haml
+: 1423672909:0;exit
+: 1423672905:0;clear
+: 1423672906:0;l
+: 1423672907:0;ls
+: 1423672907:0;clear
+: 1423672908:0;ll
+: 1423672909:0;exit
