@@ -7,7 +7,7 @@ URxvt.keysym.C-S-Down: perl:font-size:decglobal
 
 ! URxvt Extensions -----------------------------------------------------------
 
-URxvt.perl-ext-common: ...,tabbed,default,matcher,clipboard
+URxvt.perl-ext-common: ...,default,matcher,clipboard
 
 ! URxvt Tab ------------------------------------------------------------------
 URxvt.tabbed.tabbar-fg: 8
@@ -16,7 +16,7 @@ URxvt.tabbed.tab-fg: 0
 URxvt.tabbed.tab-bg: 3
 
 ! URxvt Font Family Locale ---------------------------------------------------
-URxvt.font:		xft:GohuFont:size=9:antialias=false
+URxvt.font:		xft:Source Code Pro:size=8:antialias=true
 URxvt.imLocale: en_US.UTF-8
 URxvt.url-launcher: /usr/bin/firefox
 URxvt.matcher.button: 1
@@ -29,6 +29,8 @@ URxvt.clipboard.copycmd:  xsel -ib
 URxvt.clipboard.pastecmd: xsel -ob
 
 
+! DZEN2 ------------------------
+dzen2.font:	-*-cure-*-*-9-*-*-*-*-*-*-*-*-*
 ! xscreensaver ---------------------------------------------------------------
 
 !font settings

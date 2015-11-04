@@ -1,0 +1,44 @@
+#! /bin/sh
+##+ decoration
+bspc config border_width        0
+bspc config window_gap          8
+bspc config top_padding					50
+bspc config left_padding				50
+bspc config bottom_padding				50
+bspc config right_padding				50
+
+##+ colors
+bspc config focused_border_color         "#202020"
+bspc config normal_border_color          "#202020"
+bspc config active_border_color          "#3C788C"
+bspc config focused_locked_border_color  "#00C7D8"
+bspc config normal_locked_border_color   "#708D8F"
+bspc config active_locked_border_color   "#808C8D"
+bspc config urgent_border_color          "#93F388"
+bspc config presel_border_color          "#101010"
+
+##+ Configuration
+bspc config split_ratio         0.52
+bspc config borderless_monocle  true
+bspc config gapless_monocle     true
+bspc config focus_by_distance   true
+
+
+##+ Monitor Number
+bspc monitor -d I II III IV V
+
+##+ Per-apps setup
+bspc rule -a Gimp 		desktop=^8 follow=on floating=on
+bspc rule -a Screenkey 		manage=off
+bspc rule -a urxvt		desktop=^2 follow=on
+bspc rule -a sublime_text	desktop=^2 follow=on
+bspc rule -a firefox		desktop=^1 follow=on floating=on
+bspc rule -a thunar		desktop=^1 follow=on floating=on
+bspc rule -a pcmanfm		desktop=^1 follow=on floating=on
+bspc rule -a steam		desktop=^3 floating=on
+bspc rule -a vlc		desktop=^3 
+
+feh --bg-fill ~/Pictures/wallhaven-13142.jpg &
+firefox &
+urxvt &
+bar_panel &
